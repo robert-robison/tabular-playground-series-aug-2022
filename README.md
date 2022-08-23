@@ -4,6 +4,16 @@ Kaggle releases monthly competitions in its "playground" series. The competition
 
 While the competition only rewards predictive accuracy, I wanted to produce a model that also that offerred predictive insights to the client, since this is often a real-world objective.
 
+- [Tabular Playground Series - August 2022](#tabular-playground-series---august-2022)
+  - [Background](#background)
+  - [Solution](#solution)
+    - [Few Meaningful Predictors](#few-meaningful-predictors)
+    - [Imputing `measurement_17`](#imputing-measurement_17)
+    - [Using a Backup Model](#using-a-backup-model)
+  - [Model](#model)
+    - [Final Takeaways for the Business](#final-takeaways-for-the-business)
+  - [Conclusion](#conclusion)
+
 ## Background
 
 Description of the competition from the [overview](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022):
